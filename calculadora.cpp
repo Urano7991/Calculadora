@@ -87,9 +87,9 @@ int main() { // Programa principal
         printf("[/] Divisao\n");
         printf("[^] Potencia\n");
         printf("[%c] Porcentagem\n", '%');
-        printf("[S] Seno (em radianos)\n");
-        printf("[C] Cosseno (em radianos)\n");
-        printf("[I] Inicializar (zerar visor)\n");
+        printf("[S] Seno \n");
+        printf("[C] Cosseno \n");
+        printf("[I] Inicializar\n");
         printf("[D] Desligar\n");
         printf("=====================================\n");
 
